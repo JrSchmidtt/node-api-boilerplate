@@ -1,1 +1,1 @@
-# node-api-boilerplate
+# api-node-boilerplate
